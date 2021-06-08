@@ -13,7 +13,7 @@
 
 [Twitter](https://twitter.com/canopus_network)
 
-[Discord](https://discord.gg/vUZ5wefVx9)
+[Discord](https://discord.gg/HwJS4prznz)
 
 [Instagram](https://instagram.com/canopus_network)
 {% endhint %}

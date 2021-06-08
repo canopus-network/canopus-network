@@ -21,9 +21,9 @@
 * [Website](https://canopus.network)
 * [Twitter](https://twitter.com/canopus_network)
 * [Telegram Channel](https://t.me/canopus_network)
-* [Telegram Group](https://t.me/Canopus_Group)
+* [Telegram Group](https://t.me/CanopusGroup)
 * [Instagram](https://instagram.com/canopus_network)
-* [Discord](https://discord.gg/vUZ5wefVx9)
+* [Discord](https://discord.gg/HwJS4prznz)
 * [Github](https://github.com/Canopus-Network-OPUS)
 * [Email](mailto:info@canopus.network)
 
