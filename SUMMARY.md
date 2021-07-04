@@ -23,7 +23,8 @@
 * [Telegram Channel](https://t.me/canopus_network)
 * [Telegram Group](https://t.me/CanopusGroup)
 * [Instagram](https://instagram.com/canopus_network)
-* [Discord](https://discord.gg/HwJS4prznz)
+* [Facebook](https://www.facebook.com/canopusnetwork/)
+* [Discord](https://discord.com/invite/canopusnetwork)
 * [Github](https://github.com/Canopus-Network-OPUS)
 * [Email](mailto:info@canopus.network)
 
