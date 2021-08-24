@@ -16,11 +16,9 @@
 
 ## 🖇️Cross-Chain Bridge
 
-* [Untitled](cross-chain-bridge/untitled.md)
+* [Canopus Bridge](cross-chain-bridge/untitled.md)
 
 ## Source
-
----
 
 * [Website](https://canopus.network)
 * [Twitter](https://twitter.com/canopus_network)
