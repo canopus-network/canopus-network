@@ -16,7 +16,7 @@
 
 ## 🖇️Cross-Chain Bridge
 
-* [Canopus Bridge](cross-chain-bridge/untitled.md)
+* [Canopus Bridge](cross-chain-bridge/canopus-bridge.md)
 
 ## Source
 
