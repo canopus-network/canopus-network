@@ -37,7 +37,9 @@ Bridge URL- [https://bridge.canopus.network/](https://bridge.canopus.network/)
 
 ![](https://miro.medium.com/max/875/1*5VZ1LWWWItoGtaIGzdl2LQ.png)
 
-> _**Step 3: Once your Wallet is connected, you can see your OPUS balance on Avalanche Mainnet. You would also need to add Binance Smart Chain Network in Metamask/Trust Wallet manually.**_
+> _**Step 3: Once your Wallet is connected, you can see your OPUS balance on Avalanche Mainnet.**_ 
+>
+> #### **You would also need to add Binance Smart Chain Network in Metamask/Trust Wallet manually.**
 
 > #### The Contract Address for Both Chains is: 0x76076880e1EBBcE597e6E15c47386cd34de4930F
 >
