@@ -18,6 +18,10 @@
 * [Chain Bridge Protocol](cross-chain-bridge/introducation.md)
 * [Canopus Bridge](cross-chain-bridge/canopus-bridge.md)
 
+## Canopus DEX APP
+
+* [Coming Soon](canopus-dex-app/untitled.md)
+
 ## Canopus Wallet APP
 
 * [Canopsu Wallet](canopus-wallet-app/canopsu-wallet.md)
