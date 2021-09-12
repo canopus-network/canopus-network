@@ -15,11 +15,12 @@ description: Find out what has been done and what will happen in the near future
 9. Integrate ETH Network on Canopus Chain Bridge
 10. Integrate Polygon Network on Canopus Chain Bridge
 11. IDO
-12. Listing on Uniswap
-13. Listing on 1Inch
-14. Canopus DEX Application
-15. Integrate Canopus DEX Application with ETH, BSC, Polygon & Avalanche C-Chain Networks
-16. **\#1 on Ethereum Network**
+12. IFO
+13. Listing on Uniswap
+14. Listing on 1Inch
+15. Canopus DEX Application
+16. Integrate Canopus DEX Application with ETH, BSC, Polygon & Avalanche C-Chain Networks
+17. **\#1 on Ethereum Network**
     * Uniswap
     * Kyber
     * Curve
@@ -33,7 +34,7 @@ description: Find out what has been done and what will happen in the near future
     * SushiSwap
     * DODO
     * Mooniswap\(1inch protocol AMM\).
-17. **\#2 on BSC Network**
+18. **\#2 on BSC Network**
     * PancakeSwap
     * BakerySwap
     * Mooniswap
@@ -42,7 +43,7 @@ description: Find out what has been done and what will happen in the near future
     * Nerve Finance
     * Belt Finance
     * Ellipsis
-18. **\#3 on Polygon Network**
+19. **\#3 on Polygon Network**
     * QuickSwap
     * SushiSwap
     * mStable
@@ -50,9 +51,9 @@ description: Find out what has been done and what will happen in the near future
     * Dfyn
     * Cometh
     * Dodo
-19. **\#4 on Avalanche Network**
+20. **\#4 on Avalanche Network**
     * Pangolin Exchange
     * More coming soon
-20. Canopus Wallet
-21. Canopus Plastic Card
+21. Canopus Wallet
+22. Canopus Plastic Card
 
