@@ -19,4 +19,40 @@ description: Find out what has been done and what will happen in the near future
 13. Listing on 1Inch
 14. Canopus DEX Application
 15. Integrate Canopus DEX Application with ETH, BSC, Polygon & Avalanche C-Chain Networks
-16. 
+16. **\#1 on Ethereum Network**
+    * Uniswap
+    * Kyber
+    * Curve
+    * Balancer
+    * CREAM
+    * Bancor
+    * mStable
+    * Shell
+    * Swerve
+    * SnowSwap
+    * SushiSwap
+    * DODO
+    * Mooniswap\(1inch protocol AMM\).
+17. **\#2 on BSC Network**
+    * PancakeSwap
+    * BakerySwap
+    * Mooniswap
+    * DODO\_V2
+    * SushiSwap
+    * Nerve Finance
+    * Belt Finance
+    * Ellipsis
+18. **\#3 on Polygon Network**
+    * QuickSwap
+    * SushiSwap
+    * mStable
+    * Curve
+    * Dfyn
+    * Cometh
+    * Dodo
+19. **\#4 on Avalanche Network**
+    * Pangolin Exchange
+    * More coming soon
+20. Canopus Wallet
+21. Canopus Plastic Card
+
