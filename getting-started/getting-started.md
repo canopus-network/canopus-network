@@ -8,5 +8,9 @@
 
 ## Community Channels
 
+## Canopus Products
+
+{% page-ref page="../canopus-plastic-card/untitled.md" %}
+
 
 
