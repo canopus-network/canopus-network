@@ -30,6 +30,7 @@
 ## Source
 
 * [Website](https://canopus.network)
+* [Blog](https://canopusblog.medium.com/)
 * [Twitter](https://twitter.com/canopus_network)
 * [Telegram Channel](https://t.me/canopus_network)
 * [Telegram Group](https://t.me/CanopusGroup)
