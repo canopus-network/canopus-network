@@ -6,9 +6,7 @@ description: A little bit about us.
 
 ## Whats is the Canopus?
 
-Canopus is the first decentralized galactic network protocol in Avalanche Ecosystem which is the main focus on stability, improving transaction speed, and reducing the fee. 
-
-Canopus \(OPUS\) is unique functionality and control model never seen before in the Network Protocol. The platform also focuses on token issuance, synthetic staking between chains, interoperability, and more interesting cross-chain features in development. 
+Canopus is the first decentralized galactic network protocol in Avalanche Ecosystem which is mainly focused on stability, improvement of transaction speed and reducing the transaction fee to the bearest minimum while aiming to be the fastest solution on micropayments \( best among equals\). With these, there is no better solution than the Canopus solution.
 
 We take all the good parts from available coins/tokens and combined them with the improvement into Canopus \(OPUS\) Protocol.
 
