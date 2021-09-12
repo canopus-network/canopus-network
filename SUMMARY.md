@@ -14,7 +14,7 @@
 
 ## 🖇️Cross-Chain Bridge
 
-* [Introduction](cross-chain-bridge/introducation.md)
+* [Chain Bridge Protocol](cross-chain-bridge/introducation.md)
 * [Canopus Bridge](cross-chain-bridge/canopus-bridge.md)
 
 ## Canopus Wallet APP
