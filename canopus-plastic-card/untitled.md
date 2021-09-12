@@ -10,7 +10,7 @@ Bridging the centralized finance \(Fiat\) and the decentralized finance \(De-Fi\
 * **The collection of significant foreign exchange fees \(up to 4% of the purchase amount\), by financial institutions, when spending abroad using conventional fiat debit or credit cards**
 
 {% hint style="info" %}
-**Owning the Canopus tokens \(be it on the Canopus Plastic Card or the Canopus Plastic Virtual Card\) affords you the following:**
+Owning the Canopus tokens \(be it on the Canopus Plastic Card or the Canopus Plastic Virtual Card\) affords you the following:
 {% endhint %}
 
 * **Cashback up to 4% back in a highly liquid token with great potential for price growth;** 
