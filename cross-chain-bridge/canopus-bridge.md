@@ -2,7 +2,7 @@
 description: >-
   Binance Smart Chain Bridge, which marks the inception of OPUS in BEP20. It
   allows OPUS Token holders to seamlessly bridge their OPUS ARC20 tokens
-  (Avalanche C-Chain)over to the Binance Smart Chain OPU
+  (Avalanche C-Chain) over to the Binance Smart Chain
 ---
 
 # Canopus Bridge
