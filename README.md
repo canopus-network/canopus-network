@@ -48,6 +48,18 @@ While the solution actually looks pretty elegant on paper, it was shackled by th
 
 Conclusion Ultimately, secure, fast and transparent fundraising that empowers the right teams will help move the space forward. Canopus is an investor-focused platform that supports rather than confuses members by offering an environment in which everyone wins. Our culture is built on rewarding innovation and talented teams that deliver real value through rewarding apps and forward-thinking development.
 
+## Mission 
+
+Becoming the most influential project in the world by overcoming the gap between the traditional financial market \(Fiat\) and decentralized financial market \(De-Fi\) is a mission embarked upon by the project. This we do by always looking at new ways of trying to surpass customers’ expectations by providing the best products and services, the best way we know-how. Thus, the need to create our values and welcome you to the Canopus network world.
+
+## Vission
+
+We are always looking at new ways of trying to exceed customers’ expectations by providing the best products and services, the best way we can.
+
+## Values
+
+Our values are built on a relationship of trust, simplicity, and integrity, where everyone freely expresses themselves for fruitful cooperation. These help us to expand collectively and create innovative solutions, which improve the development of our products and provide our customers with the highest order of optimum service.
+
 ## What products are available and in the works?
 
 The following are some examples of work that are already in progress by the Canopus team at the time of writing: 
