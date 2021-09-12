@@ -11,46 +11,13 @@ description: >-
 
 Find out what has been done and what will happen in the near future
 
-### Q1
-
-* Smart Contract Avalanche C-Chain
-* Release OPUS token
-* Launch/IDO
-* Establish OPUS social media channels
-* Build content marketing team
-
-### Q2
-
-* Improving Security and Stability
-* Swap cross-chain
-* Staking
-* Improving the transaction time and fee
-* Marketing campaign
-* Token distribution
-* Integrate with Exchange Platforms
-
-### Q3
-
-* Web Wallet
-* Stable Pool
-* Listing
-* Futures contracts
-* Synthetic assets
-* Securities
-
-### Q4
-
-* Community app
-* P2P Integration
-* Integrate with E-Commerce platforms
-* Building Exchange Platforms / Web & App
-
+1. 
 ## Whitepaper
 
 Our whitepaper is modified and updated according to business needs.
 
 {% hint style="info" %}
-Whitepaer can be found by visiting [\#OPUS](https://github.com/Canopus-Network-OPUS/OPUS/blob/main/Canopus%20Whitepaper.pdf)
+Whitepaper can be found by visiting [\#OPUS](https://github.com/Canopus-Network-OPUS/OPUS/blob/main/Canopus%20Whitepaper.pdf)
 {% endhint %}
 
 ## What is the $OPUS contract address?
