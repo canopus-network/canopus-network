@@ -78,7 +78,7 @@ For more details please visit the below page.
 {% endtab %}
 
 {% tab title="Canopus DeFi App" %}
-
+## Canopus DEFI APP
 {% endtab %}
 
 {% tab title="Canopus Plastic Card" %}
