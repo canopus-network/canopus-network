@@ -17,6 +17,10 @@
 * [Introducation](cross-chain-bridge/introducation.md)
 * [Canopus Bridge](cross-chain-bridge/canopus-bridge.md)
 
+## Canopus Wallet APP
+
+* [Canopsu Wallet](canopus-wallet-app/canopsu-wallet.md)
+
 ## Canopus Plastic Card
 
 * [Plastic Card](canopus-plastic-card/untitled.md)
@@ -33,8 +37,4 @@
 * [Discord](https://discord.com/invite/canopusnetwork)
 * [Github](https://github.com/Canopus-Network-OPUS)
 * [Email](mailto:info@canopus.network)
-
-## Canopus Wallet APP
-
-* [Canopsu Wallet](canopus-wallet-app/canopsu-wallet.md)
 
