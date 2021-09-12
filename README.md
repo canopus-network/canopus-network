@@ -79,10 +79,8 @@ For more details please visit the below page.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Micropayments" %}
-{% hint style="info" %}
-Coming soon
-{% endhint %}
+{% tab title="Wallet" %}
+
 {% endtab %}
 {% endtabs %}
 

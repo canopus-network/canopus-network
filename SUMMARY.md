@@ -34,3 +34,7 @@
 * [Github](https://github.com/Canopus-Network-OPUS)
 * [Email](mailto:info@canopus.network)
 
+## Canopus Wallet APP
+
+* [Canopsu Wallet](canopus-wallet-app/canopsu-wallet.md)
+
