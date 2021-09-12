@@ -1,7 +1,5 @@
 ---
-description: >-
-  Owning the Canopus tokens (be it on the Canopus Plastic Card or the Canopus
-  Plastic Virtual Card) affords you the following:
+description: 'We''ll offer virtual, physical, and even metal cards for our customers.'
 ---
 
 # Plastic Card
