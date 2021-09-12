@@ -67,19 +67,17 @@ The following are some examples of work that are already in progress by the Cano
 
 {% tabs %}
 {% tab title="Business Solution" %}
-## Canopus Business Solution
+## Canopus Chain Bridge
 
-## Token Development
+## Bridge Development
 
-Expand your fundraising opportunities by tokenizing your assets. Our blockchain engineers use modern agile practices, design methodologies and a technology-independent approach to deliver a solution that puts you in the spotlight. Whether it's developing an ERC20 token or creating a token on the Binance Smart Chain, we customize our services to suit your needs.
-
-![](.gitbook/assets/screen-shot-2021-05-28-at-1.47.40-pm-copy.png)
-
-![](.gitbook/assets/screen-shot-2021-05-28-at-1.47.40-pm.png)
+The bridge allows two economically independent and technologically different chains to communicate with each other. They can range from centralized and reliable to decentralized and with minimal trust. One of the currently available solutions is ChainBridge, a modular multi-directional blockchain bridge built by ChainSafe. The ChainBridge implementation is now available in Canopus, which connects the Avalanche C-Chain and BSC.
 
 {% hint style="info" %}
-For more details please visit the [Canopus Business Solution](https://canopus.network/business/)
+For more details please visit the below page.
 {% endhint %}
+
+{% page-ref page="cross-chain-bridge/introducation.md" %}
 {% endtab %}
 
 {% tab title="Canopus Star Token" %}
@@ -104,6 +102,8 @@ Coming soon
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ## Additional information about Canopus Network
 
