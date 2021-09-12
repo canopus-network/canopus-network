@@ -80,8 +80,8 @@ For more details please visit the below page.
 {% page-ref page="cross-chain-bridge/introducation.md" %}
 {% endtab %}
 
-{% tab title="Canopus Star Token" %}
-{% page-ref page="usdopus-integration/canopus-star-token-usdopst.md" %}
+{% tab title="Canopus DeFi App" %}
+
 {% endtab %}
 
 {% tab title="Canopus Galactic Token" %}

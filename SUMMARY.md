@@ -14,6 +14,10 @@
 * [Canopus Galactic Token \($OPGT\)](usdopus-integration/canopus-galactic-token-usdopgt.md)
 * [Micropayments](usdopus-integration/micropayments.md)
 
+## Yield Farming & Staking
+
+* [Coming Soon](yield-farming-and-staking/coming-soon.md)
+
 ## 🖇️Cross-Chain Bridge
 
 * [Introducation](cross-chain-bridge/introducation.md)
