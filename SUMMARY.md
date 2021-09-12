@@ -24,7 +24,7 @@
 
 ## Canopus Wallet APP
 
-* [Canopsu Wallet](canopus-wallet-app/canopsu-wallet.md)
+* [Canopus Wallet](canopus-wallet-app/canopsu-wallet.md)
 
 ## Canopus Plastic Card
 

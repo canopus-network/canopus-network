@@ -2,7 +2,7 @@
 description: Coming Soon
 ---
 
-# Canopsu Wallet
+# Canopus Wallet
 
 Today in the real world, it is difficult to spend cryptocurrency and there is no way to manage expenses and secure them using a mobile application. We solve the aforementioned problems by:
 
