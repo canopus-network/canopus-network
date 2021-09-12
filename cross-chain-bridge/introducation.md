@@ -44,13 +44,13 @@ On both sides of the bridge, there is a set of smart contracts, each of which pe
 • After several checks, the bridge executes the offer in the target contract through the handler contract in chain B. Another event is raised that updates the offer status from submitted to completed. This workflow is illustrated in the following diagram:
 {% endhint %}
 
-### This workflow is illustrated in the following diagram:
+## This workflow is illustrated in the following diagram:
 
 ![](../.gitbook/assets/image.png)
 
 > The two target contracts on each side of the bridge are linked by performing a series of registrations in the corresponding processor contract through the bridge contract. These registrations can currently only be performed by the bridge contract administrator.
 
-### General definitions
+## General definitions
 
 Here we have compiled a list of concepts applicable to the ChainBridge implementation \(from Chain A to Chain B\)
 
