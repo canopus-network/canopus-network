@@ -12,6 +12,7 @@
 ## Yield Farming & Staking
 
 * [Coming Soon](yield-farming-and-staking/coming-soon.md)
+* [Leveraged Yield Farming](yield-farming-and-staking/leveraged-yield-farming.md)
 
 ## 🖇️Cross-Chain Bridge
 
