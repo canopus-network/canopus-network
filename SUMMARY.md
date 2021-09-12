@@ -22,7 +22,7 @@
 
 ## Canopus DEX APP
 
-* [Coming Soon](canopus-dex-app/untitled.md)
+* [Overview](canopus-dex-app/untitled.md)
 
 ## Canopus Wallet APP
 

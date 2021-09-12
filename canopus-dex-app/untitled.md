@@ -1,4 +1,4 @@
-# Coming Soon
+# Overview
 
 ## Canopus DEX APP will be integrated with the below platforms:
 
