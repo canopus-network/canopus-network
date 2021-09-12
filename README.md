@@ -16,7 +16,7 @@ We take all the good parts from available coins/tokens and combined them with th
 * Name: Canopus
 * Symbol: OPUS
 * Network: **Avalanche C-Chain & Binance Smart Chain**
-* Spec: ERC20
+* Spec: ERC20 & BEP-20
 * Precision: 18
 * Total Supply: 1,000,000,000
 {% endhint %}
