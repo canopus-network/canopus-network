@@ -7,6 +7,7 @@
 * [Getting Started](getting-started/getting-started.md)
 * [$OPUS](getting-started/usdopus.md)
 * [How To Set Up A Wallet](getting-started/how-to-set-up-a-wallet.md)
+* [Canopus Roadmap](getting-started/canopus-roadmap.md)
 
 ## Yield Farming & Staking
 

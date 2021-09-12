@@ -7,26 +7,8 @@ description: >-
 
 # $OPUS
 
-## The Roadmap
 
-Find out what has been done and what will happen in the near future
 
-1. Smart Contract on Avalanche C-Chain
-2. Smart Contract on Binance Smart Chain \(BSC\)
-3. Chain Bridge on Avalanche C-Chain & Binance Smart Chain \(BSC\)
-4. Yield Farming & Staking App
-5. Listing on Pangolin Exchange
-6. Listing on Pancakeswap 
-7. Integrate new assets \#AVAX on Canopus Chain Bridge
-8. NFT Fundraising 
-9. Integrate ETH Network on Canopus Chain Bridge
-10. Integrate Polygon Network on Canopus Chain Bridge
-11. IDO
-12. Listing on Uniswap
-13. Listing on 1Inch
-14. Canopus DEX Application
-15. Integrate Canopus DEX Application with ETH, BSC, Polygon & Avalanche C-Chain Networks
-16. 
 ## Whitepaper
 
 Our whitepaper is modified and updated according to business needs.
@@ -44,9 +26,7 @@ Contract: 0x76076880e1EBBcE597e6E15c47386cd34de4930F
 ## Where can I buy and stake the $OPUS?
 
 {% hint style="info" %}
-[Staking](https://app.pangolin.exchange/#/add/0x76076880e1ebbce597e6e15c47386cd34de4930f/AVAX)  
-[Buy OPUS](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f)  
-[Blockchain Explorer](https://avascan.info/blockchain/c/token/0x76076880e1ebbce597e6e15c47386cd34de4930f)
+Check if from this [LINK:](https://canopus.network/chains-and-exchange-platforms/)
 {% endhint %}
 
 ## Contract Source Code
