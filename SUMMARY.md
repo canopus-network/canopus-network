@@ -25,7 +25,7 @@
 
 ## Canopus Plastic Card
 
-* [Untitled](canopus-plastic-card/untitled.md)
+* [Plastic Card](canopus-plastic-card/untitled.md)
 
 ## Source
 
