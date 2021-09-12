@@ -24,11 +24,11 @@ ChainBridge currently relies on trusted relays to fulfill these roles. However, 
 On both sides of the bridge, there is a set of smart contracts, each of which performs a specific function:
 {% endhint %}
 
-> ### • **Bridged Contract - Users and repeaters interact with this contract. It delegates calls to the handler contracts for deposits, starts a transaction on the source chain, and to execute proposals on the target chain.**
+> #### • **Bridged Contract - Users and repeaters interact with this contract. It delegates calls to the handler contracts for deposits, starts a transaction on the source chain, and to execute proposals on the target chain.**
 
-> ### **• Handler Contracts - validates the options provided by the user, creating a deposit / execution** record
+> #### **• Handler Contracts - validates the options provided by the user, creating a deposit / execution** record
 
-> ### **• Target Contract - As the name suggests, this is the contract we are going to interact with on each side of the bridge. General workflow The general workflow is as follows \(from chain A to chain B\):**
+> #### **• Target Contract - As the name suggests, this is the contract we are going to interact with on each side of the bridge. General workflow The general workflow is as follows \(from chain A to chain B\):**
 
 {% hint style="info" %}
 • The user initiates a transaction using the deposit \(\) function in the bridge contract of chain A. Here the user needs to enter the target chain, resource ID and calldata \(definitions after the diagram\). After several checks, the deposit \(\) function of the handler contract is called, which makes the appropriate call to the target contract. 
