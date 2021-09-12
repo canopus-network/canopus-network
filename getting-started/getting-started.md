@@ -1,9 +1,9 @@
 # Getting Started
 
-## Canopus Network
+## Canopus Supported Chains & Exchanges Platforms
 
 {% hint style="info" %}
-[Website](https://canopus.network)
+[Learn More](https://canopus.network/chains-and-exchange-platforms/)
 {% endhint %}
 
 ## Community Channels
