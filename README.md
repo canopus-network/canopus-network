@@ -66,7 +66,7 @@ Conclusion Ultimately, secure, fast and transparent fundraising that empowers th
 The following are some examples of work that are already in progress by the Canopus team at the time of writing: 
 
 {% tabs %}
-{% tab title="Business Solution" %}
+{% tab title="Canopus Bridge" %}
 ## Canopus Chain Bridge
 
 ## Bridge Development
