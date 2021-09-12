@@ -13,6 +13,7 @@
 
 * [Coming Soon](yield-farming-and-staking/coming-soon.md)
 * [Leveraged Yield Farming](yield-farming-and-staking/leveraged-yield-farming.md)
+* [NFT Fundraiser](yield-farming-and-staking/nft-fundraiser.md)
 
 ## 🖇️Cross-Chain Bridge
 
