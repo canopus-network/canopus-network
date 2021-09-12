@@ -82,6 +82,10 @@ For more details please visit the below page.
 {% tab title="Wallet" %}
 
 {% endtab %}
+
+{% tab title="Canopus DEX App" %}
+
+{% endtab %}
 {% endtabs %}
 
 
