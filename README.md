@@ -76,16 +76,14 @@ The bridge allows two economically independent and technologically different cha
 {% hint style="info" %}
 For more details please visit the below page.
 {% endhint %}
-
-{% page-ref page="cross-chain-bridge/introducation.md" %}
 {% endtab %}
 
 {% tab title="Canopus DeFi App" %}
 
 {% endtab %}
 
-{% tab title="Canopus Galactic Token" %}
-{% page-ref page="usdopus-integration/canopus-galactic-token-usdopgt.md" %}
+{% tab title="Canopus Plastic Card" %}
+
 
 
 

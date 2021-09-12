@@ -23,6 +23,10 @@
 * [Introducation](cross-chain-bridge/introducation.md)
 * [Canopus Bridge](cross-chain-bridge/canopus-bridge.md)
 
+## Canopus Plastic Card
+
+* [Untitled](canopus-plastic-card/untitled.md)
+
 ## Source
 
 * [Website](https://canopus.network)
