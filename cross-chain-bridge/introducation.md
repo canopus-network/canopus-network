@@ -2,7 +2,7 @@
 description: Chain Bridge Protocol
 ---
 
-# Introducation
+# Introduction
 
 The bridge allows two economically independent and technologically different chains to communicate with each other. They can range from centralized and reliable to decentralized and with minimal trust. One of the currently available solutions is ChainBridge, a modular multi-directional blockchain bridge built by ChainSafe. The ChainBridge implementation is now available in Canopus, which connects the Avalanche C-Chain and BSC.
 
