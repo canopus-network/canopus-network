@@ -82,8 +82,6 @@ For more details please visit the below page.
 {% endtab %}
 
 {% tab title="Micropayments" %}
-{% page-ref page="usdopus-integration/micropayments.md" %}
-
 {% hint style="info" %}
 Coming soon
 {% endhint %}
