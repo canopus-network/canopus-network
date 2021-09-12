@@ -7,8 +7,6 @@ description: >-
 
 # $OPUS
 
-
-
 ## Whitepaper
 
 Our whitepaper is modified and updated according to business needs.
