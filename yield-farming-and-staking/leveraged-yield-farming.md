@@ -14,11 +14,27 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 ## How to join LP Pool
 
-### How to obtain tokens on Avalanche or Binance Smart Chain Networks
+### 1. How to obtain tokens on Avalanche or Binance Smart Chain Networks
 
 * Buy OPUS tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f), [Pancakeswap ](https://pancakeswap.finance/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f&outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56)or [DODOEX](https://app.dodoex.io/exchange/BUSD-OPUS?network=bsc-mainnet)
 * Buy AVAX, PNG, USDT.e tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f) & buy BNB, BUSD on [Pancakeswap](https://pancakeswap.finance/swap) or [DODOEX](https://app.dodoex.io/exchange?network=bsc-mainnet)
 * Buy CAKE tokens on PancakeSwap
+
+### 2.  A**dd liquidity to the Pool** 
+
+* Open [Canopus Yield Farming & Staking App](https://app.canopus.network)
+* Select the network you want to stake
+  * Avalanche C-Chain & **Binance Smart Chain**
+* Select the pairs
+  * **Avalanche Network**
+    * [OPUS - AVAX](https://app.pangolin.exchange/#/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/AVAX)
+    * [OPUS - PNG](https://app.pangolin.exchange/#/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/0x60781C2586D68229fde47564546784ab3fACA982)
+    * [OPUS - USDT.e](https://app.pangolin.exchange/#/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/0xc7198437980c041c805A1EDcbA50c1Ce5db95118)
+  * **Binance Smart Chain**
+    * [OPUS - BNB](https://pancakeswap.finance/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/BNB)
+    * [OPUS - BUSD](https://pancakeswap.finance/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56)
+
+
 
 
 
