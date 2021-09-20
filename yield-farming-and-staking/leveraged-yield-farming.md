@@ -43,8 +43,10 @@ The Canopus project benefits from liquidity staking because it means our communi
   * **Binance Smart Chain**
     * **OPUS/BNB:** 0xC2669251097f378D9a536214213A5AfA18aBB320
     * **OPUS/BUSD:** 0xfFe98Cbb0022Fe0a8f425D022520e052378D11A4
+* Click Next and Add Tokens.
+* Now you will be able to see your LP tokens in your MetaMask wallet
 
-
+![](../.gitbook/assets/image%20%283%29.png)
 
 
 
