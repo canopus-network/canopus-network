@@ -22,8 +22,7 @@ The Canopus project benefits from liquidity staking because it means our communi
 ### 2.  A**dd liquidity to the Pool** 
 
 * Open [Canopus Yield Farming & Staking App](https://app.canopus.network)
-* Select the network you want to stake
-  * **Avalanche C-Chain** & **Binance Smart Chain**
+* Select the network you want to stake \(**Avalanche C-Chain** & **Binance Smart Chain\)**
 * Select the pairs
   * **Avalanche Network**
     * [OPUS - AVAX](https://app.pangolin.exchange/#/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/AVAX)
