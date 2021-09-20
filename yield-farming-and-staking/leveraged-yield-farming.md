@@ -16,8 +16,12 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 ### 1. How to obtain tokens on Avalanche or Binance Smart Chain Networks
 
+{% hint style="info" %}
+#### **Canopus \(OPUS\) Contract Address on Avalanche & Binance Smart Chains**  _`0x76076880e1EBBcE597e6E15c47386cd34de4930F`_
+{% endhint %}
+
 * Buy OPUS tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f), [Pancakeswap ](https://pancakeswap.finance/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f&outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56)or [DODOEX](https://app.dodoex.io/exchange/BUSD-OPUS?network=bsc-mainnet)
-* Buy AVAX, PNG, USDT.e tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f) & buy BNB, BUSD on [Pancakeswap](https://pancakeswap.finance/swap) or [DODOEX](https://app.dodoex.io/exchange?network=bsc-mainnet)
+* Buy AVAX, PNG, USDT.e tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f) or buy BNB, BUSD on [Pancakeswap](https://pancakeswap.finance/swap) or [DODOEX](https://app.dodoex.io/exchange?network=bsc-mainnet)
 
 ### 2.  A**dd liquidity to the Pool** 
 
