@@ -35,6 +35,8 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
+![](../.gitbook/assets/image%20%283%29.png)
+
 * Go back to your MetaMask wallet, click on Assets, scroll down and click Add Token.
 * Paste token contract address:
   * **Avalanche Network**
@@ -47,7 +49,7 @@ The Canopus project benefits from liquidity staking because it means our communi
 * Click Next and Add Tokens.
 * Now you will be able to see your LP tokens in your MetaMask wallet
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 
 
