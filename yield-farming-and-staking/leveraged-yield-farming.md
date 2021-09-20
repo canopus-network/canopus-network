@@ -32,6 +32,9 @@ The Canopus project benefits from liquidity staking because it means our communi
     * [OPUS - BNB](https://pancakeswap.finance/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/BNB)
     * [OPUS - BUSD](https://pancakeswap.finance/add/0x76076880e1EBBcE597e6E15c47386cd34de4930F/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56)
 * Type the amount of token you want to supply, click Supply and Confirm Supply.
+
+![](../.gitbook/assets/image%20%284%29.png)
+
 * Go back to your MetaMask wallet, click on Assets, scroll down and click Add Token.
 * Paste token contract address:
   * **Avalanche Network**
