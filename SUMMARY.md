@@ -11,7 +11,6 @@
 
 ## Yield Farming & Staking
 
-* [Coming Soon](yield-farming-and-staking/coming-soon.md)
 * [Yield Farming](yield-farming-and-staking/leveraged-yield-farming.md)
 * [Staking](yield-farming-and-staking/staking.md)
 * [NFT Fundraiser](yield-farming-and-staking/nft-fundraiser.md)
