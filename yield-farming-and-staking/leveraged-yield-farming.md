@@ -58,5 +58,12 @@ The Canopus project benefits from liquidity staking because it means our communi
 ### 3. Stake LP Token
 
 * Open [Canopus Yield Farming & Staking](https://app.canopus.network/) App
+
+![](../.gitbook/assets/canopus-yield-farming.jpg)
+
+* Click **Enable Farming** button
+
+![](../.gitbook/assets/image%20%289%29.png)
+
 * Click **Enable Farming** button
 
