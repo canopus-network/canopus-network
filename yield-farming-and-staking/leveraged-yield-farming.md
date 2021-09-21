@@ -8,11 +8,11 @@ description: How to join LP Staking Pool
 
 ## **What is Liquidity Staking?**
 
-Liquidity Staking is the process of staking the liquidity you add to the Canopus Pangolin & Pancakeswap pools and earning OPUS rewards in return.
+Liquidity Staking is the process of adding liquidity to any pairs like Canopus/Pangolin, Canopus/AVAX, and other pools. By adding liquidity in a pair, you can earn a good amount of OPUS in return.
 
-For an LP provider, you are now doubly interested in keeping your LP token, because you not only receive trading fees but also receive a reward in the form of OPUS tokens.
+Being an LP provider, users will be profitable in two ways. User can keep their LP token, so they not only receive trading fees from LP pairs but will also receive rewards in form of OPUS tokens.
 
-The Canopus project benefits from liquidity staking because it means our community helps us by adding liquidity to our Pangolin & Pancakeswap pools and then placing that liquidity during the staking period. This helps maintain liquidity and reduce slippage, which in turn can increase trading activity. 
+The Canopus Network provides a unique concept of liquidity staking. By this, our community can help the project by adding liquidity to our Pangolin & Pancakeswap pools and then placing that liquidity during the staking period. This will help us to maintain liquidity and reduce slippage, which in turn will increase trading activity.
 
 ## How to join LP Pool
 
@@ -83,7 +83,7 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 * Confirm transaction.
 
-## Thank you, you are now staked your LP token.  You can see the staked balance on the info bar.
+## You have successfully staked your LP token now. You can see your staked balances in the information bar on our website. Thank you!
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
