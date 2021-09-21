@@ -75,7 +75,7 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-* Add your LP token & click deposit
+* Add your LP token & click **Deposit**
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
