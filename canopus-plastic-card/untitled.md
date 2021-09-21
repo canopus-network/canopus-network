@@ -4,9 +4,9 @@ description: 'We''ll offer virtual, physical, and even metal cards for our custo
 
 # Plastic Card
 
-Bridging the centralized finance \(Fiat\) and the decentralized finance \(De-Fi\) gap requires a cryptocurrency that can do a fantastic job in that aspect which is where the Canopus tokens come in, to solve customers’ problems such as:
+## Bridging the centralized finance \(Fiat\) and the decentralized finance \(De-Fi\) gap requires a cryptocurrency that can do a fantastic job in that aspect which is where the Canopus tokens come in, to solve customers’ problems such as:
 
-* **The lack of a developed infrastructure for accepting cryptocurrency as a means of payment;** 
+* **The lack of developed infrastructure for accepting cryptocurrency as a means of payment;** 
 * **The collection of significant foreign exchange fees \(up to 4% of the purchase amount\), by financial institutions, when spending abroad using conventional fiat debit or credit cards**
 
 {% hint style="info" %}
