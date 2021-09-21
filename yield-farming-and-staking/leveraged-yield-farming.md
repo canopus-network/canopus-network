@@ -22,6 +22,7 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 * Buy OPUS tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f), [Pancakeswap ](https://pancakeswap.finance/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f&outputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56)or [DODOEX](https://app.dodoex.io/exchange/BUSD-OPUS?network=bsc-mainnet)
 * Buy AVAX, PNG, USDT.e tokens on [Pangolin](https://app.pangolin.exchange/#/swap?inputCurrency=0x76076880e1ebbce597e6e15c47386cd34de4930f) or buy BNB, BUSD on [Pancakeswap](https://pancakeswap.finance/swap) or [DODOEX](https://app.dodoex.io/exchange?network=bsc-mainnet)
+* You can also transfer your OPUS from Avalanche C-Chain to Binance Smart Chain \(BSC\) or vice versa via [Canopus Chain Bridge](https://bridge.canopus.network/)
 
 ### 2.  A**dd liquidity to the Pool** 
 
