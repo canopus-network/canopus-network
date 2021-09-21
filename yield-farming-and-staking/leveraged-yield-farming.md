@@ -65,5 +65,22 @@ The Canopus project benefits from liquidity staking because it means our communi
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-* Click **Enable Farming** button
+* Confirm transaction
+* Click **Farm Now** button
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+* Click **+** icon
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
+* Add your LP token & click deposit
+
+![](../.gitbook/assets/image%20%2813%29.png)
+
+* Confirm transaction.
+
+## Thank you, you are now staked your LP token.  You can see the staked balance on the info bar.
+
+![](../.gitbook/assets/image%20%2811%29.png)
 
