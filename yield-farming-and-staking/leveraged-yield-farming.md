@@ -67,7 +67,7 @@ The Canopus project benefits from liquidity staking because it means our communi
 ![](../.gitbook/assets/image%20%289%29.png)
 
 * Confirm transaction
-* Click **Farm Now** button
+* Click the **Farm Now** button
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
