@@ -12,15 +12,17 @@ description: Find out what has been done and what will happen in the near future
 6. ~~Listing on Pancakeswap~~ 
 7. Integrate new assets \#AVAX on Canopus Chain Bridge
 8. NFT Fundraising 
-9. Integrate ETH Network on Canopus Chain Bridge
-10. Integrate Polygon Network on Canopus Chain Bridge
-11. IDO
-12. IFO
-13. Listing on Uniswap
-14. Listing on 1Inch
-15. Canopus DEX Application
-16. Integrate Canopus DEX Application with ETH, BSC, Polygon & Avalanche C-Chain Networks
-17. **\#1 on Ethereum Network**
+9. Smart Contract on ETH Chain
+10. Smart Contract on Polygon Chain
+11. Integrate ETH Network on Canopus Chain Bridge
+12. Integrate Polygon Network on Canopus Chain Bridge
+13. IDO
+14. IFO
+15. Listing on Uniswap
+16. Listing on 1Inch
+17. Canopus DEX Application
+18. Integrate Canopus DEX Application with ETH, BSC, Polygon & Avalanche C-Chain Networks
+19. **\#1 on Ethereum Network**
     * Uniswap
     * Kyber
     * Curve
@@ -34,7 +36,7 @@ description: Find out what has been done and what will happen in the near future
     * SushiSwap
     * DODO
     * Mooniswap\(1inch protocol AMM\).
-18. **\#2 on BSC Network**
+20. **\#2 on BSC Network**
     * PancakeSwap
     * BakerySwap
     * Mooniswap
@@ -43,7 +45,7 @@ description: Find out what has been done and what will happen in the near future
     * Nerve Finance
     * Belt Finance
     * Ellipsis
-19. **\#3 on Polygon Network**
+21. **\#3 on Polygon Network**
     * QuickSwap
     * SushiSwap
     * mStable
@@ -51,9 +53,9 @@ description: Find out what has been done and what will happen in the near future
     * Dfyn
     * Cometh
     * Dodo
-20. **\#4 on Avalanche Network**
+22. **\#4 on Avalanche Network**
     * Pangolin Exchange
     * More coming soon
-21. Canopus Wallet
-22. Canopus Plastic Card
+23. Canopus Wallet
+24. Canopus Plastic Card
 
