@@ -12,7 +12,7 @@ Before you can stake Canopus token, make sure you have the $OPUS tokens on a cry
 
 {% page-ref page="../getting-started/how-to-set-up-a-wallet.md" %}
 
-
+### 
 
 ### Step 2: Access Canopus network
 
