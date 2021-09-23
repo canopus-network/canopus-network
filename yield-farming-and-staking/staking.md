@@ -1,6 +1,6 @@
 # Staking
 
-## Canopus is offering the opportunity to earn passive income by holding and staking cryptocurrency.
+## Canopus is offering the opportunity to earn passive income by holding and staking $OPUS.
 
 ## How do you stake OPUS on [Canopus Yield Farming & Staking](https://app.canopus.network/stake)?
 
