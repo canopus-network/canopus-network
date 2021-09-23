@@ -60,3 +60,7 @@ Here we have compiled a list of concepts applicable to the ChainBridge implement
 
 \_\_
 
+{% hint style="info" %}
+If you still have any questions or issues, feel free to reach the Canopus team in the [telegram group](https://t.me/canopus_network).
+{% endhint %}
+
