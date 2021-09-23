@@ -75,3 +75,9 @@ Bridge URL- [https://bridge.canopus.network/](https://bridge.canopus.network/)
 >
 > _**Step 10: After switching to BSC network, now you can see your OPUS BEP 20 Tokens on the UI.**_
 
+
+
+{% hint style="info" %}
+If you still have any questions or issues, feel free to reach the Canopus team in the [telegram group](https://t.me/canopus_network).
+{% endhint %}
+
