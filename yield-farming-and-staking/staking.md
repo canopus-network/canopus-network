@@ -10,6 +10,10 @@ Before you can stake Canopus token, make sure you have the $OPUS tokens on a cry
 
 **Connect your wallet to the Canopus DApp**, where you can stake & farm your OPUS tokens. Once you’ve set up the wallet, it’s time to access the Canopus network.
 
+{% page-ref page="../getting-started/how-to-set-up-a-wallet.md" %}
+
+
+
 ### Step 2: Access Canopus network
 
 You need to navigate to the “Stake” tab, where you will find all the available individuals staking pairs on the platform.
