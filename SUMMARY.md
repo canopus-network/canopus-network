@@ -35,6 +35,8 @@
 ## Source
 
 * [Website](https://canopus.network)
+* [Yield Farming & Staking](https://app.canopus.network/)
+* [Chain Bridge](https://bridge.canopus.network/)
 * [Blog](https://canopusblog.medium.com/)
 * [Twitter](https://twitter.com/canopus_network)
 * [Telegram Channel](https://t.me/canopus_network)
