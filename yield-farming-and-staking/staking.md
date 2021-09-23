@@ -34,3 +34,9 @@ You need to navigate to the “Stake” tab, where you will find all the availab
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
+
+
+{% hint style="info" %}
+If you still have any questions or issues, feel free to reach the Canopus team in the [telegram group](https://t.me/canopus_network).
+{% endhint %}
+
