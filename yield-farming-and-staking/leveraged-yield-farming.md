@@ -87,3 +87,9 @@ The **Canopus Network** provides a unique concept of liquidity staking. By this,
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
+
+
+{% hint style="info" %}
+If you still have any questions or issues, feel free to reach the Canopus team in the [telegram group](https://t.me/canopus_network).
+{% endhint %}
+
