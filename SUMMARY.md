@@ -43,7 +43,7 @@
 * [Telegram Group](https://t.me/CanopusGroup)
 * [Instagram](https://instagram.com/canopus_network)
 * [Facebook](https://www.facebook.com/canopusnetwork/)
-* [Discord](https://discord.com/invite/canopusnetwork)
+* [Discord](https://discord.com/invite/b5xSj8Jd3C)
 * [Github](https://github.com/Canopus-Network-OPUS)
 * [Email](mailto:info@canopus.network)
 
