@@ -8,12 +8,10 @@ description: A little bit about us.
 
 ## Whats is the Canopus?
 
-Canopus is the first decentralized galactic network protocol in Avalanche Ecosystem which is mainly focused on stability, improvement of transaction speed and reducing the transaction fee to the nearest minimum while aiming to be the fastest solution on micropayments \( best among equals\). With these, there is no better solution than the Canopus solution.
-
-We take all the good parts from available coins/tokens and combined them with the improvement into Canopus \(OPUS\) Protocol.
+Canopus is the first decentralized galactic network protocol in Avalanche Ecosystem which is mainly focused on stability, improvement of transaction speed and reducing the transaction fee to the nearest minimum while aiming to be the fastest solution on micropayments ( best among equals). With these, there is no better solution than the Canopus solution.
 
 {% hint style="info" %}
-**$OPUS Specification** 
+**$OPUS Specification **
 
 * Name: Canopus
 * Symbol: OPUS
@@ -23,7 +21,7 @@ We take all the good parts from available coins/tokens and combined them with th
 * Total Supply: 1,000,000,000
 {% endhint %}
 
-```text
+```
 Contract Address: 0x76076880e1EBBcE597e6E15c47386cd34de4930F
 ```
 
@@ -31,28 +29,28 @@ Contract Address: 0x76076880e1EBBcE597e6E15c47386cd34de4930F
 
 As complex and far-reaching as the aforementioned problems are, the solution to the fundraising problem is quite simple. Canopus will offer the following features:
 
-* **Low volatility** 
-* **Safe Applications** 
-* **Faster completion** 
-* **Intuitive design** 
-* **Less expensive transactions with higher throughput** 
+* **Low volatility **
+* **Safe Applications **
+* **Faster completion **
+* **Intuitive design **
+* **Less expensive transactions with higher throughput **
 * **Ability to move assets between blockchains**
 
 While the solution actually looks pretty elegant on paper, it was shackled by the available technology, right up to the Avalanche. Canopus is a decentralized galactic network protocol that will offer token pools and auctions, allowing teams to raise funds for their projects in a permissionless and compliant environment using the Avalanche blockchain. We will allow the creation and ownership of swap pools based on stable and flexible token prices. Our Pools offer projects several advantages over current models, for example:
 
-* **Stable price** 
-* **Predictable results** 
-* **More informed investors** 
-* **Reliable and compatible** 
-* **Fair distribution of tokens** 
-* **Positive community opinion** 
+* **Stable price **
+* **Predictable results **
+* **More informed investors **
+* **Reliable and compatible **
+* **Fair distribution of tokens **
+* **Positive community opinion **
 * **In addition to token sale - OTC trading, auctions, whitelisted sales**
 
 Conclusion Ultimately, secure, fast and transparent fundraising that empowers the right teams will help move the space forward. Canopus is an investor-focused platform that supports rather than confuses members by offering an environment in which everyone wins. Our culture is built on rewarding innovation and talented teams that deliver real value through rewarding apps and forward-thinking development.
 
 ## Mission 
 
-Becoming the most influential project in the world by overcoming the gap between the traditional financial market \(Fiat\) and decentralized financial market \(De-Fi\) is a mission embarked upon by the project. This we do by always looking at new ways of trying to surpass customers’ expectations by providing the best products and services, the best way we know-how. Thus, the need to create our values and welcome you to the Canopus network world.
+Becoming the most influential project in the world by overcoming the gap between the traditional financial market (Fiat) and decentralized financial market (De-Fi) is a mission embarked upon by the project. This we do by always looking at new ways of trying to surpass customers’ expectations by providing the best products and services, the best way we know-how. Thus, the need to create our values and welcome you to the Canopus network world.
 
 ## Vission
 
@@ -77,13 +75,27 @@ The bridge allows two economically independent and technologically different cha
 {% hint style="info" %}
 For more details please visit the below page.
 {% endhint %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+
 {% endtab %}
 
 {% tab title="Canopus DeFi App" %}
 ## Canopus DEFI APP
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Canopus Plastic Card" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 
 
 
@@ -94,10 +106,18 @@ For more details please visit the below page.
 {% endtab %}
 
 {% tab title="Wallet" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 
 {% endtab %}
 
 {% tab title="Canopus DEX App" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 
 {% endtab %}
 {% endtabs %}
@@ -111,4 +131,3 @@ For additional information feel free to refer to our [White Paper](https://githu
 {% hint style="info" %}
 If you still have any questions or issues, feel free to reach the Canopus team in the [telegram group](https://t.me/canopus_network).
 {% endhint %}
-
